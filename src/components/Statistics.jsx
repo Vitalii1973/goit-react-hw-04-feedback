@@ -1,4 +1,3 @@
-// Statistics.jsx
 import React from 'react';
 import styles from '../styles/Statistics.module.css';
 
